@@ -20,25 +20,41 @@
 - ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
 -->
 
-# Hi, I'm Ram Rounak Mukherjee 👋
+# Ram Rounak Mukherjee
 
-## About
-I’m a Computer Science Engineering student based in India, currently pursuing my B.Tech at Swami Vivekananda Institute of Science and Technology. I’m active on GitHub and interested in software development, learning by building, and hackathon-driven problem solving.
+<div align="center">
 
-- 📍 Location: India
-- 🎓 Education: B.Tech in Computer Science Engineering, Swami Vivekananda Institute of Science and Technology
-- 🧑‍💻 GitHub: https://github.com/ramrounakmukherjee-blip
+[![GitHub followers](https://img.shields.io/github/followers/ramrounakmukherjee-blip?style=social)](https://github.com/ramrounakmukherjee-blip)
+[![GitHub profile](https://img.shields.io/badge/GitHub-ramrounakmukherjee--blip-181717?logo=github)](https://github.com/ramrounakmukherjee-blip)
+[![Location](https://img.shields.io/badge/Location-India-0A66C2)](https://github.com/ramrounakmukherjee-blip)
+
+</div>
+
+## About Me
+I’m a Computer Science Engineering student from India, currently pursuing my B.Tech at Swami Vivekananda Institute of Science and Technology. I’m passionate about learning through building, solving real problems, and growing my skills in software development and hackathon culture.
+
+- 📍 Based in: India
+- 🎓 Education: B.Tech in Computer Science Engineering
+- 🏫 Institution: Swami Vivekananda Institute of Science and Technology
+- 🧑‍💻 GitHub: [ramrounakmukherjee-blip](https://github.com/ramrounakmukherjee-blip)
 - 🙋 Pronouns: he/him
 - 🌐 GitHub stats: 6 public repositories, 2 followers, 0 following
 
-## Education
-- B.Tech in Computer Science Engineering
-- Swami Vivekananda Institute of Science and Technology
+## Current Focus
+- Building practical software projects
+- Strengthening problem-solving and engineering fundamentals
+- Exploring tech through hands-on learning and hackathons
 
 ## Tech & Interests
-- 🧠 Focus: software engineering, problem solving, and learning through build-and-learn projects
-- 🧰 Current interests: coding, practical project building, and hackathon culture
-- ❤️ Interests: technology, learning, collaboration, and creative problem solving
+- 💡 Core interests: software development, problem solving, and continuous learning
+- 🧰 Areas of focus: coding, project building, and experimentation
+- ❤️ I enjoy: technology, collaboration, and creating things that solve meaningful problems
+
+## Projects
+I’m currently building and improving my work as I grow in software development. More projects will be added here as they are developed.
+
+## Connect
+- GitHub: [ramrounakmukherjee-blip](https://github.com/ramrounakmukherjee-blip)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
